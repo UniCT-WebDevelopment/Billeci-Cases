@@ -1,6 +1,6 @@
 # BilleciCases
 Customers can view their orders and their status (sent, read, building, ready) and make new orders by choosing the type of flightcase they want and some additional options. The administrator has some tools available to view new orders, customer statistics and the number of flight cases built. He can filter, modify and delete orders, update component prices and upload templates.
-![Screenshot](/images/Schermata del 2019-08-01 12-23-49.png)
+![Screenshot](/images/ss0.png)
 
 ### Features
 - Administrators space for create/update components, have business statics, edit/delete orders, see new orders
