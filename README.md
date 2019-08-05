@@ -47,9 +47,7 @@ Permissions of this strong copyleft license are conditioned on making available 
 ### Author
 BilleciCases has been developed by Fabrizio Billeci. Computer Science student at University of Catania, Italy. 
 
-Contacts
-
--Email: fabriziobilleci3@gmail.com
-
--LinkedIn: https://www.linkedin.com/in/fabrizio-billeci-7a7494100/
+##### Contacts
+- Email: fabriziobilleci3@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fabrizio-billeci-7a7494100/
 
