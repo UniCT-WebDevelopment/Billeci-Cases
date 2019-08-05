@@ -31,13 +31,18 @@ php, composer, npm, mongodb-org
 ```
 ### Installation
 1. Download or clone this repository
-2. Go to 'app/Http/Controllers/AdminController.php' to change admin's email
 2. Go to 'app' directory with terminal
-4. Run ```$ composer install```
-5. Copy/Paste '.env.example' file and rename it in '.env'. Then run ```$ php artisan key:gen```
-3. Start Apache Server Service
-4. From shell(1)  ```$ mongod --ipv6``` start mongo-service
-5. From shell(2) ```$ php artisan serve``` serve application to localhost:8000
+3. Run ```$ composer install```
+4. Copy/Paste '.env.example' file and rename it in '.env'. Then run ```$ php artisan key:gen```
+5. Start Apache Server Service
+6. From shell(1)  ```$ mongod --ipv6``` start mongo-service
+7. From shell(2) ```$ php artisan serve``` serve application to localhost:8000
+
+### Access credentials
+To run BilleciCases as administrator:
+1. Register as a new user from 'localhost:8000/register'
+2. Go to 'app/Http/Controllers/AdminController.php@isAdmin()' and change admin's email with yours.
+
 
 ### License 
 GNU General Public License v3.0
